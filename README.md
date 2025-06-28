@@ -48,3 +48,4 @@ npm run dev
 ![image alt](https://github.com/Preethi04322/Doctor_Appointment/blob/main/Screenshot%20(520).png)
 ![image alt](https://github.com/Preethi04322/Doctor_Appointment/blob/main/Screenshot%20(521).png)
 ![image alt](https://github.com/Preethi04322/Doctor_Appointment/blob/main/Screenshot%20(522).png)
+![iamge alt](https://github.com/Preethi04322/Doctor_Appointment/blob/main/Screenshot%20(523).png)
