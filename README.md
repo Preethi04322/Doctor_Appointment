@@ -46,3 +46,4 @@ npm install
 npm run dev
 
 ![image alt](https://github.com/Preethi04322/Doctor_Appointment/blob/main/Screenshot%20(492).png?raw=true)
+![image alt](https://github.com/Preethi04322/Doctor_Appointment/blob/main/Screenshot%20(521).png)
